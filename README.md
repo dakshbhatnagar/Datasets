@@ -24,9 +24,9 @@ To get started with the datasets in this repository:
 
 1. **Clone the Repository**: Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/project-datasets.git
+   git clone https://github.com/dakshbhatnagar/project-datasets.git
    ```
-
+   
 2. **Explore the Datasets**: Navigate through the repository to explore and access the datasets of interest.
    
 3. **Usage**: Use the datasets in your preferred data analysis tools or programming languages (e.g., Python, R) for learning and experimentation.
@@ -37,6 +37,6 @@ Contributions to expand the dataset collection are welcome! If you have addition
 
 ### License
 
-The datasets in this repository are generally free to use for educational purposes. However, please check individual dataset licenses for specific terms of use.
+The datasets in this repository are generally free to use (and have been collected as they are freely available on the internet) for educational purposes. However, please check individual dataset licenses for specific terms of use.
 
 Happy learning and exploring data science!
