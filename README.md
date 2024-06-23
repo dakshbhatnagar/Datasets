@@ -1,6 +1,6 @@
-## Project Datasets Repository
+## Datasets Repository
 
-Welcome to the Project Datasets Repository! 
+Welcome to the Datasets Repository! 
 
 This repository serves as a collection of datasets curated specifically for personal learning projects. The datasets included here are intended for educational purposes to support exploration and experimentation in data analysis, machine learning, and related fields.
 
@@ -24,10 +24,10 @@ To get started with the datasets in this repository:
 
 1. **Clone the Repository**: Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/dakshbhatnagar/project-datasets.git
+   git clone https://github.com/dakshbhatnagar/Datasets.git
    ```
    
-2. **Explore the Datasets**: Navigate through the repository to explore and access the datasets of interest.
+2. **Explore the Datasets**: Navigate through the repository to explore and access the datasets of your interest.
    
 3. **Usage**: Use the datasets in your preferred data analysis tools or programming languages (e.g., Python, R) for learning and experimentation.
 
