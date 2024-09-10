@@ -2,6 +2,9 @@
 
 This repository serves as a collection of datasets curated specifically for personal learning projects. 
 
+
+![image](https://brightdata.com/wp-content/uploads/2023/01/What-Is-a-Dataset_regular.png)
+
 The datasets included here are intended for educational purposes to support exploration and experimentation in data analysis, machine learning, and related fields.
 
 ---
@@ -28,9 +31,10 @@ The primary goal of this repository is to provide accessible datasets that can b
 
 To get started with the datasets in this repository, head over to the terminal of your choice and then:
 
-1. **Clone the Repository**: Clone or download the repository to your local machine.
+1. **Clone the Repository**: Clone or download the repository to your local machine using terminal of your choice.
    ```bash
    git clone https://github.com/dakshbhatnagar/Datasets.git
+   cd Datasets
    ```
    
 2. **Explore the Datasets**: Navigate through the repository to explore and access the datasets of your interest.
